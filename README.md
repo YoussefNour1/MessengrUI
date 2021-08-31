@@ -1,6 +1,6 @@
 # trainning
 
-A new Flutter project.
+Messenger UI with some Marvel characters
 
 ## Getting Started
 
